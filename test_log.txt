@@ -1,6 +1,0 @@
-2021-12-08 01:00:29,291: - INFO:
-
-2021-12-08 01:00:29,291: - INFO:====== WebDriver manager ======
-2021-12-08 01:00:29,318: - INFO:Current google-chrome version is 96.0.4664
-2021-12-08 01:00:29,318: - INFO:Get LATEST driver version for 96.0.4664
-2021-12-08 01:00:29,602: - INFO:Driver [C:\Users\Levon\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
